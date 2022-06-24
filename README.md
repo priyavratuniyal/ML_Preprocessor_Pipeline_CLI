@@ -28,6 +28,7 @@ The CLI made to preprocess the database and save your **time**:clock1:
 - Now run, `python3 main.py` [Dataset's Path]
 - Example: `python3 main.py dataset.csv`
 - Then you will see the below home screen.
+Note: You can run `python3 main.py sample_data.csv` 'sample data is provided'
 
 ## :camera: Screenshots
 
