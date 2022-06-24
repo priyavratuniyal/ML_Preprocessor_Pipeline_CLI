@@ -25,8 +25,8 @@ The CLI made to preprocess the database and save your **time**:clock1:
 - Clone this Repository: `git clone https://github.com/utkryuk/ML-Preprocessor-CLI.git`
 - `cd ML-Preprocessor-CLI/`
 - `pip3 install -r requirements.txt`
-- Now run, python3 `main.py` [Dataset's Path]
-- Ex: `python3 main.py dataset.csv`
+- Now run, `python3 main.py` [Dataset's Path]
+- Example: `python3 main.py dataset.csv`
 - Then you will see the below home screen.
 
 ## :camera: Screenshots
