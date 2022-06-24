@@ -35,10 +35,10 @@ The CLI made to preprocess the database and save your **time**:clock1:
     <img alt="CLI Visualisation" src="./screenshots/image3.PNG" width="70%"/>
 </p>
 
-## Future Scope
+// Future Scope
 
-- Implementing GUI of this project.
-- Implement Undo and Redo for the Database.
-- Implement other preprocessing steps.
+//- Implementing GUI of this project.
+//- Implement Undo and Redo for the Database.
+//- Implement other preprocessing steps.
 
-#### <i>If you have any questions, just let me know [here.](mailto:uniyalpriyavrat1@gmail.com)</i>
+#### <i>If you have any suggestions/questions, ping[here.](mailto:uniyalpriyavrat1@gmail.com)</i>
