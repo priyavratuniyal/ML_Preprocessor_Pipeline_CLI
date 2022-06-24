@@ -1,8 +1,8 @@
-# :zap: ML Preprocessor CLI
+# ML Preprocessor CLI
 
 The CLI made to preprocess the database and save your **time**:clock1:
 
-## Gist
+## :page_facing_up: Description
 
 - Given the database, the CLI provides various options to preprocess the data. 
 - Options:
@@ -12,15 +12,8 @@ The CLI made to preprocess the database and save your **time**:clock1:
     - Feature Scaling
 - We can also **DOWNLOAD**:arrow_down: the modified dataset.
 
-## :memo: To-Do
 
-- [x] Implement try-catch
-- [x] Handling case in the input
-- [x] Adding Emoji's
-- [ ] Implementing graph functions for Analysis
-- [x] Adding Comments
-
-## Run
+## :checkered_flag: Run
 
 - Clone this Repository: `git clone https://github.com/utkryuk/ML-Preprocessor-CLI.git`
 - `cd ML-Preprocessor-CLI/`
@@ -28,7 +21,7 @@ The CLI made to preprocess the database and save your **time**:clock1:
 - Now run, `python3 main.py` [Dataset's Path]
 - Example: `python3 main.py dataset.csv`
 - Then you will see the below home screen.
-Note: You can run `python3 main.py sample_data.csv` 'sample data is provided'
+</br></br><b>Note</b>: You can run `python3 main.py sample_data.csv` 
 
 ## :camera: Screenshots
 
@@ -42,4 +35,4 @@ Note: You can run `python3 main.py sample_data.csv` 'sample data is provided'
 - Implement Undo and Redo for the Database.
 - Implement other preprocessing steps.
 
-#### If you have any questions, just let me know [here.](mailto:uniyalpriyavrat1@gmail.com)
+#### <i>If you have any questions, just let me know [here.](mailto:uniyalpriyavrat1@gmail.com)</i>
