@@ -1,8 +1,12 @@
-# ML Preprocessor CLI
+# ML Preprocessor Pipeline CLI
 
-The CLI made to preprocess the database and save your **time**:clock1:
+<!--The CLI made to preprocess the database and save your **time**:clock1:-->
 
-## :page_facing_up: Description
+## :thinking: Why?
+
+Data preprocessing is a required first step before any machine learning machinery can be applied, because the algorithms learn from the data and the learning outcome for problem solving heavily depends on the proper data needed to solve a particular problem – which are called features.
+
+## :page_facing_up: What?
 
 - Given the database, the CLI provides various options to preprocess the data. 
 - Options:
@@ -10,18 +14,19 @@ The CLI made to preprocess the database and save your **time**:clock1:
     - Handling NULL Values
     - Encoding Categorical Data
     - Feature Scaling
-- We can also **DOWNLOAD**:arrow_down: the modified dataset.
+    - Data Visualisation
+- You can also **DOWNLOAD**:arrow_down: the modified dataset.
 
 
 ## :checkered_flag: Run
 
-- Clone this Repository: `git clone https://github.com/utkryuk/ML-Preprocessor-CLI.git`
-- `cd ML-Preprocessor-CLI/`
-- `pip3 install -r requirements.txt`
-- Now run, `python3 main.py` [Dataset's Path]
-- Example: `python3 main.py dataset.csv`
-- Then you will see the below home screen.
-</br></br><b>Note</b>: You can run `python3 main.py sample_data.csv` 
+1. Clone this Repo: `git clone https://github.com/priyavratuniyal/ML_Preprocessor_Pipeline_CLI.git`
+2. `cd ML_Preprocessor_Pipeline_CLI/`
+3. `pip3 install -r requirements.txt`
+4. Now run, `python3 main.py` [Dataset's Path]
+</br>Example: `python3 main.py dataset.csv`
+### Then you will see the below home screen. :tada:
+</br><b>Note</b>: You can run `python3 main.py sample_data.csv`, a sample data file is provided with this repo.
 
 ## :camera: Screenshots
 
@@ -35,10 +40,10 @@ The CLI made to preprocess the database and save your **time**:clock1:
     <img alt="CLI Visualisation" src="./screenshots/image3.PNG" width="70%"/>
 </p>
 
-// Future Scope
+<!-- Future Scope
 
-//- Implementing GUI of this project.
-//- Implement Undo and Redo for the Database.
-//- Implement other preprocessing steps.
-
-#### <i>If you have any suggestions/questions, ping[here.](mailto:uniyalpriyavrat1@gmail.com)</i>
+- Implementing GUI of this project.
+- Implement Undo and Redo for the Database.
+- Implement other preprocessing steps.
+-->
+#### If you have any suggestions/questions, ping <i>[here.](mailto:uniyalpriyavrat1@gmail.com)</i>
