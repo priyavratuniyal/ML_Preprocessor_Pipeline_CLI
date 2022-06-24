@@ -26,7 +26,13 @@ The CLI made to preprocess the database and save your **time**:clock1:
 ## :camera: Screenshots
 
 <p align="center">
-    <img alt="Home screen" src="./screenshots/homeScreen.png" width="80%"/>
+    <img alt="Home screen" src="./screenshots/image1.PNG" width="70%"/>
+</p>
+<p align="center">
+    <img alt="Tasks" src="./screenshots/image2.png" width="70%"/>
+</p>
+<p align="center">
+    <img alt="CLI Visualisation" src="./screenshots/image3.PNG" width="70%"/>
 </p>
 
 ## Future Scope
